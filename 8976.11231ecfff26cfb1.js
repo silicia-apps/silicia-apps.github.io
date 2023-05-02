@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksio_demo=self.webpackChunksio_demo||[]).push([[8976],{8976:a=>{a.exports=JSON.parse('{"LOGIN_COMPONENT_TITLE":"Accedi","LOGIN_COMPONENT_DO_NOT_HAVE_ACCOUNT":"Non hai ancora un account? <a href=\\"auth/signup\\">clicca</a>","L_USERNAME":"Email","L_PASSWORD":"Password","SUBMIT":"Accedi"}')}}]);
